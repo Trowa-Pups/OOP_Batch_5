@@ -5,3 +5,4 @@ statement_input = str(input("Please input a complete statement: "))
 word_counter = len(statement_input.split())
 
 #Print the number of words
+print("Word count: ", word_counter)
